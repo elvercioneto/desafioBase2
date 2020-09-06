@@ -1,0 +1,3 @@
+testAdicionarUmaIssue,Category,Reproducibility,Severity,Priority,Profile,Summary,Description,Steps
+                     ,[All Projects] Teste,always,block,immediate,PC Windows 7,Erro ao Acessar Página do CrowdTest,O sistema apresenta um erro informando que a página não existe,1. Acessar o site www.base2.com.br  2. Clicar em CrowdTest e em Seguida em Seja um Testador  3. Clicar em Instruções  4. Clicar no link crowdtesgting
+                     ,[All Projects] Teste,random,block,high,PC Windows 7,Erro ao clicar no link Tipos de Bugs,O sistema apresenta um erro informando que a página não existe,1. Acessar o site www.base2.com.br 2. Clicar em CrowdTest e em Seguida em Seja um Testador 3.Clicar em Instruções 4.Clicar  no link Tipos de Bugs
